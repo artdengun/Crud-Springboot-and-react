@@ -1,0 +1,6 @@
+com/deni/tugaspakiwan/repository/ProductRepository.class
+com/deni/tugaspakiwan/Service/ProductService.class
+com/deni/tugaspakiwan/Service/ProductServiceImpl.class
+com/deni/tugaspakiwan/Controller/ProductController.class
+com/deni/tugaspakiwan/model/Product.class
+com/deni/tugaspakiwan/TugasPakIwanApplication.class
